@@ -4,7 +4,7 @@
 <script>if (window.performance && performance.mark) performance.mark("TTP")</script>
 <meta charset="utf-8">
 <title>TOGELUP # Login Situs Togel 4D Online & Daftar Group TogelOn Mudah Menang</title>
-<link rel="amphtml" href="https://awalnyacobacoba.pages.dev/amp">
+<link rel="amphtml" href="https://awalnyacobacoba-72w.pages.dev/amp">
 <link rel="canonical" href="https://kkpbanjarmasin.or.id/statistik/" />
 <meta name="google-site-verification" content="4gaKGLzSQ-6xQFxEAA5q9UenPjuZef9_L3LRbJ5OEs0" />
 <meta name="description" content="TOGELUP dan TOGELON merupakan salah satu login situs togel 4d resmi yang paling dicari dengan puluhan pasaran toto terlengkap result sgp tercepat 2025 dapatkan akun vip togelup.">
