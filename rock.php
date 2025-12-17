@@ -8,26 +8,23 @@
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v23.8 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>TELAH TERSEDIA LAYANAN VAKSINASI INTERNASIONAL - Balai Kekarantinaan Kesehatan Kelas I Banjarmasin</title>
-	<link rel="canonical" href="https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/" />
+	<title>Statistik - Balai Kekarantinaan Kesehatan Kelas I Banjarmasin</title>
+	<link rel="canonical" href="https://kkpbanjarmasin.or.id/statistik/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="TELAH TERSEDIA LAYANAN VAKSINASI INTERNASIONAL - Balai Kekarantinaan Kesehatan Kelas I Banjarmasin" />
-	<meta property="og:url" content="https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/" />
+	<meta property="og:title" content="Statistik - Balai Kekarantinaan Kesehatan Kelas I Banjarmasin" />
+	<meta property="og:description" content="Laporan Keuangan Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2020 Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2021 Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2022 Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2023" />
+	<meta property="og:url" content="https://kkpbanjarmasin.or.id/statistik/" />
 	<meta property="og:site_name" content="Balai Kekarantinaan Kesehatan Kelas I Banjarmasin" />
-	<meta property="article:published_time" content="2024-10-01T00:06:33+00:00" />
-	<meta property="article:modified_time" content="2025-02-13T01:24:11+00:00" />
-	<meta property="og:image" content="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30.jpeg" />
-	<meta property="og:image:width" content="1143" />
-	<meta property="og:image:height" content="1600" />
+	<meta property="article:modified_time" content="2024-11-11T07:26:45+00:00" />
+	<meta property="og:image" content="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu.jpg" />
+	<meta property="og:image:width" content="861" />
+	<meta property="og:image:height" content="574" />
 	<meta property="og:image:type" content="image/jpeg" />
-	<meta name="author" content="admkkp" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:label1" content="Written by" />
-	<meta name="twitter:data1" content="admkkp" />
-	<meta name="twitter:label2" content="Est. reading time" />
-	<meta name="twitter:data2" content="1 minute" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/","url":"https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/","name":"TELAH TERSEDIA LAYANAN VAKSINASI INTERNASIONAL - Balai Kekarantinaan Kesehatan Kelas I Banjarmasin","isPartOf":{"@id":"https://kkpbanjarmasin.or.id/#website"},"primaryImageOfPage":{"@id":"https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/#primaryimage"},"image":{"@id":"https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/#primaryimage"},"thumbnailUrl":"https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30.jpeg","datePublished":"2024-10-01T00:06:33+00:00","dateModified":"2025-02-13T01:24:11+00:00","author":{"@id":"https://kkpbanjarmasin.or.id/#/schema/person/671103e8e89122ea6521b2c422e6eb73"},"breadcrumb":{"@id":"https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/#primaryimage","url":"https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30.jpeg","contentUrl":"https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30.jpeg","width":1143,"height":1600},{"@type":"BreadcrumbList","@id":"https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://kkpbanjarmasin.or.id/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://kkpbanjarmasin.or.id/blog/"},{"@type":"ListItem","position":3,"name":"TELAH TERSEDIA LAYANAN VAKSINASI INTERNASIONAL"}]},{"@type":"WebSite","@id":"https://kkpbanjarmasin.or.id/#website","url":"https://kkpbanjarmasin.or.id/","name":"Balai Kekarantinaan Kesehatan Kelas I Banjarmasin","description":"Balai Kekarantinaan Kesehatan Kelas I Banjarmasin","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://kkpbanjarmasin.or.id/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://kkpbanjarmasin.or.id/#/schema/person/671103e8e89122ea6521b2c422e6eb73","name":"admkkp","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://kkpbanjarmasin.or.id/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/8babe4a95776c280b4496bba600e0fe9?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/8babe4a95776c280b4496bba600e0fe9?s=96&d=mm&r=g","caption":"admkkp"},"url":"https://kkpbanjarmasin.or.id/author/admkkp/"}]}</script>
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://kkpbanjarmasin.or.id/statistik/","url":"https://kkpbanjarmasin.or.id/statistik/","name":"Statistik - Balai Kekarantinaan Kesehatan Kelas I Banjarmasin","isPartOf":{"@id":"https://kkpbanjarmasin.or.id/#website"},"primaryImageOfPage":{"@id":"https://kkpbanjarmasin.or.id/statistik/#primaryimage"},"image":{"@id":"https://kkpbanjarmasin.or.id/statistik/#primaryimage"},"thumbnailUrl":"https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu-300x200.jpg","datePublished":"2024-11-08T03:25:24+00:00","dateModified":"2024-11-11T07:26:45+00:00","breadcrumb":{"@id":"https://kkpbanjarmasin.or.id/statistik/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://kkpbanjarmasin.or.id/statistik/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://kkpbanjarmasin.or.id/statistik/#primaryimage","url":"https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu.jpg","contentUrl":"https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu.jpg","width":861,"height":574},{"@type":"BreadcrumbList","@id":"https://kkpbanjarmasin.or.id/statistik/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://kkpbanjarmasin.or.id/"},{"@type":"ListItem","position":2,"name":"Statistik"}]},{"@type":"WebSite","@id":"https://kkpbanjarmasin.or.id/#website","url":"https://kkpbanjarmasin.or.id/","name":"Balai Kekarantinaan Kesehatan Kelas I Banjarmasin","description":"Balai Kekarantinaan Kesehatan Kelas I Banjarmasin","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://kkpbanjarmasin.or.id/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -36,7 +33,6 @@
 <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
 <link rel="alternate" type="application/rss+xml" title="Balai Kekarantinaan Kesehatan Kelas I Banjarmasin &raquo; Feed" href="https://kkpbanjarmasin.or.id/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Balai Kekarantinaan Kesehatan Kelas I Banjarmasin &raquo; Comments Feed" href="https://kkpbanjarmasin.or.id/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Balai Kekarantinaan Kesehatan Kelas I Banjarmasin &raquo; TELAH TERSEDIA LAYANAN VAKSINASI INTERNASIONAL Comments Feed" href="https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/feed/" />
 <script type="text/javascript">
 /* <![CDATA[ */
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/kkpbanjarmasin.or.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.4"}};
@@ -96,7 +92,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		.page-template-full-width.penci-block-pagination .site-content,
 		.penci-page-style-2 .site-content, .penci-single-style-1 .site-content, 
 		.penci-single-style-2 .site-content,.penci-page-style-3 .site-content,
-		.penci-single-style-3 .site-content{ margin-top:-10px; }.site-header .site-branding,.header__top .site-branding{ padding-top:1px !important; }.site-header .site-branding,.header__top .site-branding{ padding-bottom:1px !important; }.header--s3 .site-branding img {max-width: 1080px !important;overflow: hidden; }.main-navigation > ul:not(.children) > li > a{ font-size: 12px; }.main-navigation ul ul a{ font-size: 12px; }#site-navigation .penci-megamenu .penci-mega-child-categories a{ font-size: 12px; }#site-navigation .penci-megamenu .penci-content-megamenu .penci-mega-latest-posts .penci-mega-post a:not(.mega-cat-name){ font-size: 12px; }@media screen and (min-width: 1240px){.single.two-sidebar .site-main .penci-container .widget-area-1 {width: 21.4%;}.single.two-sidebar .site-main .penci-container .widget-area-2{ width: 21.4%; }.single.two-sidebar .site-main .penci-container .penci-wide-content { width: 57.2%;max-width: 100%; }}@media screen and (min-width: 960px){.single.sidebar-left .site-main .penci-wide-content,.single.sidebar-right .site-main .penci-wide-content{width: 73%;max-width: 100%;}.single.sidebar-left .site-main .widget-area,.single.sidebar-right .site-main .widget-area{width: 27%;max-width: 100%;}}@media screen and (max-width: 1240px) and (min-width: 960px){.single.sidebar-left .site-main .penci-wide-content,.single.sidebar-right .site-main .penci-container__content,.single.two-sidebar .site-main .penci-wide-content { margin-left:0; width: 73%;}.single.two-sidebar .site-main .widget-area { width: 27%;}}@media screen and (min-width: 1130px){ .single .site-main > .penci-container, .single .site-main .penci-entry-media + .penci-container, .single .site-main .penci-entry-media .penci-container { max-width:1130px;margin-left: auto; margin-right: auto; } }.penci-portfolio-wrap{ margin-left: 0px; margin-right: 0px; }.penci-portfolio-wrap .portfolio-item{ padding-left: 0px; padding-right: 0px; margin-bottom:0px; }.footer__logo a,.footer__logo img{ max-width:50px;}.penci-popup-login-register .penci-login-container .penci-login input[type="submit"]{ color:#ffffff ; }.penci-popup-login-register .penci-login-container .penci-login input[type="submit"]{ background-color:#247781 ; }.header__top, .header__bottom { background-color: #e6ec7f; }.site-header{ background-color:#0d76e0; }.site-header{
+		.penci-single-style-3 .site-content{ margin-top:-10px; }.site-header .site-branding,.header__top .site-branding{ padding-top:1px !important; }.site-header .site-branding,.header__top .site-branding{ padding-bottom:1px !important; }.header--s3 .site-branding img {max-width: 1080px !important;overflow: hidden; }.main-navigation > ul:not(.children) > li > a{ font-size: 12px; }.main-navigation ul ul a{ font-size: 12px; }#site-navigation .penci-megamenu .penci-mega-child-categories a{ font-size: 12px; }#site-navigation .penci-megamenu .penci-content-megamenu .penci-mega-latest-posts .penci-mega-post a:not(.mega-cat-name){ font-size: 12px; }@media screen and (min-width: 1240px){.single.two-sidebar .site-main .penci-container .widget-area-1 {width: 21.4%;}.single.two-sidebar .site-main .penci-container .widget-area-2{ width: 21.4%; }.single.two-sidebar .site-main .penci-container .penci-wide-content { width: 57.2%;max-width: 100%; }}@media screen and (min-width: 960px){.single.sidebar-left .site-main .penci-wide-content,.single.sidebar-right .site-main .penci-wide-content{width: 73%;max-width: 100%;}.single.sidebar-left .site-main .widget-area,.single.sidebar-right .site-main .widget-area{width: 27%;max-width: 100%;}}@media screen and (max-width: 1240px) and (min-width: 960px){.single.sidebar-left .site-main .penci-wide-content,.single.sidebar-right .site-main .penci-container__content,.single.two-sidebar .site-main .penci-wide-content { margin-left:0; width: 73%;}.single.two-sidebar .site-main .widget-area { width: 27%;}}@media screen and (min-width: 1130px){ .single .site-main > .penci-container, .single .site-main .penci-entry-media + .penci-container, .single .site-main .penci-entry-media .penci-container { max-width:1130px;margin-left: auto; margin-right: auto; } }@media screen and (min-width: 1240px){.page.two-sidebar:not( .penci-block-pagination ) .site-main .penci-container .widget-area-1 {width: 21.4%;}.page.two-sidebar:not( .penci-block-pagination ) .site-main .penci-container .widget-area-2{ width: 21.4%; }.page.two-sidebar:not( .penci-block-pagination ) .site-main .penci-container .penci-wide-content { width: 57.2%;max-width: 100%; }}@media screen and (min-width: 960px){.page.sidebar-left:not( .penci-block-pagination ) .site-main .penci-wide-content,.page.sidebar-right:not( .penci-block-pagination ) .site-main .penci-wide-content{width: 73%;max-width: 100%;}.page.sidebar-left:not( .penci-block-pagination ) .site-main .widget-area,.page.sidebar-right:not( .penci-block-pagination ) .site-main .widget-area{width: 27%;max-width: 100%;}}@media screen and (max-width: 1240px) and (min-width: 960px){.page.sidebar-left:not( .penci-block-pagination ) .site-main .penci-wide-content,.page.sidebar-right:not( .penci-block-pagination ) .site-main .penci-container__content,.page.two-sidebar:not( .penci-block-pagination ) .site-main .penci-wide-content { margin-left:0; width: 73%;}}@media screen and (min-width: 1130px){ .page-template-default  .site-main{ max-width:1130px;margin-left: auto; margin-right: auto; } .page-template-default .site-main .penci-container{ max-width: 100%; } }@media screen and (min-width: 1240px){.two-sidebar .site-main .penci-container .widget-area-1, .penci-vc_two-sidebar.penci-container .widget-area-1,.penci-vc_two-sidebar.penci-container-fluid .widget-area-1{width: 21.4%; }.two-sidebar .site-main .penci-container .widget-area-2, .penci-vc_two-sidebar.penci-container .widget-area-2,.penci-vc_two-sidebar.penci-container-fluid .widget-area-2{width: 21.4%; }.two-sidebar .site-main .penci-container .penci-wide-content, .penci-vc_two-sidebar.penci-container .penci-wide-content,.penci-vc_two-sidebar.penci-container-fluid .penci-wide-content{ max-width: 100%; width: 57.2%; }}@media screen and (min-width: 960px){.sidebar-left .site-main .penci-wide-content,.sidebar-right .site-main .penci-wide-content{width: 73%;max-width: 100%;}.sidebar-left .site-main .widget-area,.sidebar-right .site-main .widget-area{width: 27%;max-width: 100%;}.penci-con_innner-sidebar-left .penci-content-main,.penci-vc_sidebar-right .penci-con_innner-sidebar-left .penci-content-main { width: 73%;max-width: 100%; }}@media screen and (min-width: 1240px){ .penci-vc_sidebar-left .penci-container__content .penci-content-main, .penci-vc_sidebar-right .penci-container__content .penci-content-main{ flex:inherit ; }.penci-vc_sidebar-left .widget-area, .penci-vc_sidebar-right .widget-area { width: 27%;max-width: 100%; }.penci-vc_sidebar-left .penci-content-main, .penci-vc_sidebar-right .penci-content-main{ width: 73%;max-width: 100%; }}@media screen and (max-width: 1240px) and (min-width: 960px){.penci-vc_two-sidebar .widget-area{ width: 27%;max-width: 100%; }.sidebar-left .site-main .penci-container__content, .sidebar-right .site-main .penci-container__content,.two-sidebar .site-main .penci-wide-content, .penci-vc_two-sidebar .penci-wide-content { margin-left:0; width: 73%;}}@media screen and (min-width: 1440px) {.penci-con_innner-sidebar-left .widget-area, .penci-con_innner-sidebar-right .widget-area { width: 27% !important; } }@media screen and (min-width: 1130px){ .archive  .site-main, body.blog  .site-main{ max-width:1130px;margin-left: auto; margin-right: auto; } .archive .site-main .penci-container, body.blog .site-main .penci-container{ max-width: 100%; } }.penci-portfolio-wrap{ margin-left: 0px; margin-right: 0px; }.penci-portfolio-wrap .portfolio-item{ padding-left: 0px; padding-right: 0px; margin-bottom:0px; }.footer__logo a,.footer__logo img{ max-width:50px;}.penci-popup-login-register .penci-login-container .penci-login input[type="submit"]{ color:#ffffff ; }.penci-popup-login-register .penci-login-container .penci-login input[type="submit"]{ background-color:#247781 ; }.header__top, .header__bottom { background-color: #e6ec7f; }.site-header{ background-color:#0d76e0; }.site-header{
 			box-shadow: inset 0 -1px 0 #d1e234;
 			-webkit-box-shadow: inset 0 -1px 0 #d1e234;
 			-moz-box-shadow: inset 0 -1px 0 #d1e234;
@@ -111,7 +107,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <script type="text/javascript" id="wpdm-frontjs-js-extra">
 /* <![CDATA[ */
 var wpdm_url = {"home":"https:\/\/kkpbanjarmasin.or.id\/","site":"https:\/\/kkpbanjarmasin.or.id\/","ajax":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php"};
-var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"ce48a973f22ac05ddb146639d76b2baf"};
+var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"c3e3699adf5259aa91907c3e58353a36"};
 var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click following button to start download.","start_dl":"Start Download"};
 /* ]]> */
 </script>
@@ -135,15 +131,15 @@ gtag("config", "G-DFBM421RDL");
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=2.1.12" id="wpa-fingerprintjs-js"></script>
 <script type="text/javascript" id="wps-js-extra">
 /* <![CDATA[ */
-var wpspagevisit = {"ajaxurl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","ajax_nonce":"ed01c92c8b"};
+var wpspagevisit = {"ajaxurl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","ajax_nonce":"dd679dce8e"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/plugins/wps-visitor-counter/styles/js/custom.js?ver=1" id="wps-js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kkpbanjarmasin.or.id/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.6.4" />
-<link rel='shortlink' href='https://kkpbanjarmasin.or.id/?p=4211' />
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://kkpbanjarmasin.or.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkkpbanjarmasin.or.id%2Ftelah-tersedia-layanan-vaksinasi-internasional%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://kkpbanjarmasin.or.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkkpbanjarmasin.or.id%2Ftelah-tersedia-layanan-vaksinasi-internasional%2F&#038;format=xml" />
+<link rel='shortlink' href='https://kkpbanjarmasin.or.id/?p=4783' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://kkpbanjarmasin.or.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkkpbanjarmasin.or.id%2Fstatistik%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://kkpbanjarmasin.or.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkkpbanjarmasin.or.id%2Fstatistik%2F&#038;format=xml" />
 <meta name="generator" content="Site Kit by Google 1.139.0" /><script>
 var portfolioDataJs = portfolioDataJs || [];
 var penciBlocksArray=[];
@@ -177,7 +173,7 @@ var PENCILOCALCACHE = {};
 				<style type="text/css">
 																																													
 					</style>
-		<style id="sticky-social-icons-styles">#sticky-social-icons-container{top: 160px}#sticky-social-icons-container li a{font-size: 24px; width: 60px; height:60px; }#sticky-social-icons-container.with-animation li a:hover{width: 70px; }#sticky-social-icons-container li a.fa-brands-fa-youtube{color: #fff; background: #e51b1b; }#sticky-social-icons-container li a.fa-brands-fa-youtube:hover{color: #fff; background: #c41717; }#sticky-social-icons-container li a.fa-brands-fa-instagram{color: #fff; background: #e878e8; }#sticky-social-icons-container li a.fa-brands-fa-instagram:hover{color: #fff; background: #ae78e8; }#sticky-social-icons-container li a.fa-brands-fa-tiktok{color: #ffffff; background: #333333; }#sticky-social-icons-container li a.fa-brands-fa-tiktok:hover{color: #fff; background: #000; }#sticky-social-icons-container li a.fa-brands-fa-facebook-f{color: #fff; background: #1e73be; }#sticky-social-icons-container li a.fa-brands-fa-facebook-f:hover{color: #fff; background: #194da8; }#sticky-social-icons-container li a.fa-brands-fa-x-twitter{color: #fff; background: #000000; }#sticky-social-icons-container li a.fa-brands-fa-x-twitter:hover{color: #fff; background: #000000; }@media( max-width: 415px ){#sticky-social-icons-container li a{font-size: 20.4px; width: 51px; height:51px; }}</style><link rel="pingback" href="https://kkpbanjarmasin.or.id/xmlrpc.php"><script type="application/ld+json">{
+		<style id="sticky-social-icons-styles">#sticky-social-icons-container{top: 160px}#sticky-social-icons-container li a{font-size: 24px; width: 60px; height:60px; }#sticky-social-icons-container.with-animation li a:hover{width: 70px; }#sticky-social-icons-container li a.fa-brands-fa-youtube{color: #fff; background: #e51b1b; }#sticky-social-icons-container li a.fa-brands-fa-youtube:hover{color: #fff; background: #c41717; }#sticky-social-icons-container li a.fa-brands-fa-instagram{color: #fff; background: #e878e8; }#sticky-social-icons-container li a.fa-brands-fa-instagram:hover{color: #fff; background: #ae78e8; }#sticky-social-icons-container li a.fa-brands-fa-tiktok{color: #ffffff; background: #333333; }#sticky-social-icons-container li a.fa-brands-fa-tiktok:hover{color: #fff; background: #000; }#sticky-social-icons-container li a.fa-brands-fa-facebook-f{color: #fff; background: #1e73be; }#sticky-social-icons-container li a.fa-brands-fa-facebook-f:hover{color: #fff; background: #194da8; }#sticky-social-icons-container li a.fa-brands-fa-x-twitter{color: #fff; background: #000000; }#sticky-social-icons-container li a.fa-brands-fa-x-twitter:hover{color: #fff; background: #000000; }@media( max-width: 415px ){#sticky-social-icons-container li a{font-size: 20.4px; width: 51px; height:51px; }}</style><script type="application/ld+json">{
     "@context": "http:\/\/schema.org\/",
     "@type": "organization",
     "@id": "#organization",
@@ -196,32 +192,30 @@ var PENCILOCALCACHE = {};
     "@type": "WPSideBar",
     "name": "Sidebar Right",
     "alternateName": "Add widgets here to display them on blog and single",
-    "url": "https:\/\/kkpbanjarmasin.or.id\/telah-tersedia-layanan-vaksinasi-internasional"
+    "url": "https:\/\/kkpbanjarmasin.or.id\/statistik"
 }</script><script type="application/ld+json">{
     "@context": "http:\/\/schema.org\/",
     "@type": "WPSideBar",
     "name": "Footer Column #1",
     "alternateName": "Add widgets here to display them in the first column of the footer",
-    "url": "https:\/\/kkpbanjarmasin.or.id\/telah-tersedia-layanan-vaksinasi-internasional"
+    "url": "https:\/\/kkpbanjarmasin.or.id\/statistik"
 }</script><script type="application/ld+json">{
     "@context": "http:\/\/schema.org\/",
     "@type": "WPSideBar",
     "name": "Footer Column #2",
     "alternateName": "Add widgets here to display them in the second column of the footer",
-    "url": "https:\/\/kkpbanjarmasin.or.id\/telah-tersedia-layanan-vaksinasi-internasional"
+    "url": "https:\/\/kkpbanjarmasin.or.id\/statistik"
 }</script><script type="application/ld+json">{
     "@context": "http:\/\/schema.org\/",
-    "@type": "BlogPosting",
-    "headline": "TELAH TERSEDIA LAYANAN VAKSINASI INTERNASIONAL",
-    "description": "TELAH TERSEDIA LAYANAN VAKSINASI INTERNASIONAL",
-    "datePublished": "2024-10-01",
-    "datemodified": "2025-02-13",
-    "mainEntityOfPage": "https:\/\/kkpbanjarmasin.or.id\/telah-tersedia-layanan-vaksinasi-internasional\/",
+    "@type": "WebPage",
+    "headline": "Statistik",
+    "description": "Laporan Keuangan Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2020 Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2021 Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2022 Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2023",
+    "datePublished": "2024-11-08",
+    "datemodified": "2024-11-11",
+    "mainEntityOfPage": "https:\/\/kkpbanjarmasin.or.id\/statistik\/",
     "image": {
         "@type": "ImageObject",
-        "url": "https:\/\/kkpbanjarmasin.or.id\/wp-content\/uploads\/2024\/10\/WhatsApp-Image-2025-02-13-at-07.58.30.jpeg",
-        "width": 1143,
-        "height": 1600
+        "url": ""
     },
     "publisher": {
         "@type": "Organization",
@@ -382,7 +376,7 @@ header#masthead {
 	</style>
 </head>
 
-<body data-rsssl=1 class="post-template-default single single-post postid-4211 single-format-standard custom-background group-blog penci-body-boxed penci_enable_ajaxsearch penci_sticky_content_sidebar sidebar-right penci-single-style-1 wpb-js-composer js-comp-ver-6.1 vc_responsive">
+<body data-rsssl=1 class="page-template-default page page-id-4783 custom-background group-blog penci-body-boxed penci_enable_ajaxsearch penci_sticky_content_sidebar sidebar-right penci-page-style-1 wpb-js-composer js-comp-ver-6.1 vc_responsive">
 
 <div id="page" class="site penci-enable-boxed">
 	
@@ -453,12 +447,12 @@ header#masthead {
 	<li id="menu-item-3971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3971"><a href="https://kkpbanjarmasin.or.id/infografis-kekarantinaan-kesehatan/" itemprop="url">Infografis Kekarantinaan Kesehatan</a></li>
 </ul>
 </li>
-<li id="menu-item-3976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3976"><a href="#" itemprop="url">Informasi Publik</a>
+<li id="menu-item-3976" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-3976"><a href="#" itemprop="url">Informasi Publik</a>
 <ul class="sub-menu">
-	<li id="menu-item-3972" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3972"><a href="https://kkpbanjarmasin.or.id/category/berita/" itemprop="url">Berita</a></li>
+	<li id="menu-item-3972" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3972"><a href="https://kkpbanjarmasin.or.id/category/berita/" itemprop="url">Berita</a></li>
 	<li id="menu-item-4703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4703"><a href="https://kkpbanjarmasin.or.id/buletin-sigar-edisi-1/" itemprop="url">Buletin</a></li>
 	<li id="menu-item-3973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3973"><a href="https://kkpbanjarmasin.or.id/category/pengumuman/" itemprop="url">Pengumuman</a></li>
-	<li id="menu-item-3975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3975"><a href="#" itemprop="url">PPID</a>
+	<li id="menu-item-3975" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-3975"><a href="#" itemprop="url">PPID</a>
 	<ul class="sub-menu">
 		<li id="menu-item-3978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3978"><a href="https://kkpbanjarmasin.or.id/jam-layanan-ppid/" itemprop="url">Layanan PPID</a>
 		<ul class="sub-menu">
@@ -472,11 +466,11 @@ header#masthead {
 			<li id="menu-item-5026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5026"><a href="https://kkpbanjarmasin.or.id/daftar-register-permohonan/" itemprop="url">Daftar Register Permohonan</a></li>
 		</ul>
 </li>
-		<li id="menu-item-4762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4762"><a href="https://kkpbanjarmasin.or.id/laporan-tersedia-setiap-saat/" itemprop="url">Layanan Tersedia Setiap Saat</a>
+		<li id="menu-item-4762" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-4762"><a href="https://kkpbanjarmasin.or.id/laporan-tersedia-setiap-saat/" itemprop="url">Layanan Tersedia Setiap Saat</a>
 		<ul class="sub-menu">
 			<li id="menu-item-4807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4807"><a href="https://kkpbanjarmasin.or.id/barang-jasa/" itemprop="url">Barang Jasa</a></li>
 			<li id="menu-item-4808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4808"><a href="https://kkpbanjarmasin.or.id/rencana-strategis/" itemprop="url">Rencana Strategis</a></li>
-			<li id="menu-item-4809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4809"><a href="https://kkpbanjarmasin.or.id/statistik/" itemprop="url">Statistik</a></li>
+			<li id="menu-item-4809" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4783 current_page_item menu-item-4809"><a href="https://kkpbanjarmasin.or.id/statistik/" itemprop="url">Statistik</a></li>
 			<li id="menu-item-4810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4810"><a href="https://kkpbanjarmasin.or.id/informasi-bmn/" itemprop="url">Informasi BMN</a></li>
 		</ul>
 </li>
@@ -510,57 +504,47 @@ header#masthead {
 	<div class="penci-header-mobile_container">
         <button class="menu-toggle navbar-toggle" aria-expanded="false"><span class="screen-reader-text">Primary Menu</span><i class="fa fa-bars"></i></button>
 								</div>
-</div><div class='marquee-hsas-shortcode-98' style='width: 100%;overflow: hidden;'><span style="color: #000000;">Selamat Datang di Zona Integritas BKK Kelas I Banjarmasin.</span>&nbsp;&nbsp;&nbsp;<span style="color: #000000;">Wilayah Bebas dari Korupsi (WBK) dan Wilayah Birokrasi Bersih Melayani (WBBM).</span></div><script>jQuery(function(){jQuery('.marquee-hsas-shortcode-98').marquee({allowCss3Support: true,css3easing: 'linear',easing: 'linear',delayBeforeStart: 2000,direction: 'left',duplicated: true,duration: 15000,gap: 50,pauseOnCycle: true,pauseOnHover: true,startVisible: true});});</script>
+</div><div class='marquee-hsas-shortcode-66' style='width: 100%;overflow: hidden;'><span style="color: #000000;">Selamat Datang di Zona Integritas BKK Kelas I Banjarmasin.</span>&nbsp;&nbsp;&nbsp;<span style="color: #000000;">Wilayah Bebas dari Korupsi (WBK) dan Wilayah Birokrasi Bersih Melayani (WBBM).</span></div><script>jQuery(function(){jQuery('.marquee-hsas-shortcode-66').marquee({allowCss3Support: true,css3easing: 'linear',easing: 'linear',delayBeforeStart: 2000,direction: 'left',duplicated: true,duration: 15000,gap: 50,pauseOnCycle: true,pauseOnHover: true,startVisible: true});});</script>
 	<div id="content" class="site-content">
+
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" >
-				<div class="penci-container">
-		<div class="penci-container__content penci-con_sb2_sb1">
-			<div class="penci-wide-content penci-content-novc penci-sticky-content penci-content-single-inner">
-				<div class="theiaStickySidebar">
-					<div class="penci-content-post noloaddisqus " data-url="https://kkpbanjarmasin.or.id/telah-tersedia-layanan-vaksinasi-internasional/" data-id="4211" data-title="">
-											<article id="post-4211" class="penci-single-artcontent noloaddisqus post-4211 post type-post status-publish format-standard has-post-thumbnail hentry category-berita category-berita-slide category-galeri-foto penci-post-item">
+			
 
-							<header class="entry-header penci-entry-header penci-title-">
-								<h1 class="entry-title penci-entry-title penci-title-">TELAH TERSEDIA LAYANAN VAKSINASI INTERNASIONAL</h1>
-								<div class="entry-meta penci-entry-meta">
-									<span class="entry-meta-item penci-posted-on"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2024-10-01T00:06:33+00:00">October 1, 2024</time><time class="updated" datetime="2025-02-13T01:24:11+00:00">February 13, 2025</time></span>								</div><!-- .entry-meta -->
-															</header><!-- .entry-header -->
-							<div class="entry-media penci-entry-media"><div class="post-format-meta "><div class="post-image penci-standard-format"><img width="960" height="1344" src="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30-960x1344.jpeg" class="attachment-penci-thumb-960-auto size-penci-thumb-960-auto wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30-960x1344.jpeg 960w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30-214x300.jpeg 214w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30-732x1024.jpeg 732w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30-768x1075.jpeg 768w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30-1097x1536.jpeg 1097w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30-286x400.jpeg 286w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30-585x819.jpeg 585w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-02-13-at-07.58.30.jpeg 1143w" sizes="(max-width: 960px) 100vw, 960px" /></div></div>	</div><div class="penci-entry-content entry-content">
-	</div><!-- .entry-content -->
 
-							<footer class="penci-entry-footer">
-								<div class="penci-source-via-tags-wrap"></div>							</footer><!-- .entry-footer -->
-						</article>
-							<div class="penci-post-pagination">
-					<div class="prev-post">
-									<div class="prev-post-inner penci_mobj__body">
-						<div class="prev-post-title">
-							<span><i class="fa fa-angle-left"></i>previous post</span>
+<div class="penci-container">
+	<div class="penci-container__content penci-con_sb2_sb1">
+		<div class="penci-wide-content penci-content-novc penci-sticky-content">
+			<div class="theiaStickySidebar">
+						<div class="penci-content-post hide_featured_image">
+				<div class="penci_breadcrumbs "><ul itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="home" href="https://kkpbanjarmasin.or.id" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><i class="fa fa-angle-right"></i><a href="https://kkpbanjarmasin.or.id/statistik/" itemprop="item"><span itemprop="name">Statistik</span></a><meta itemprop="position" content="2" /></li></ul></div>					<article id="post-4783" class="penci-content-current-page post-4783 page type-page status-publish hentry penci-post-item">
+													<header class="entry-header penci-entry-header">
+								<h1 class="entry-title penci-entry-title penci-title-">Statistik</h1><div class="penci-schema-markup"><span class="author vcard"><a class="url fn n" href="https://kkpbanjarmasin.or.id/author/admkkp/">admkkp</a></span><time class="entry-date published" datetime="2024-11-08T03:25:24+00:00">November 8, 2024</time><time class="updated" datetime="2024-11-11T07:26:45+00:00">November 11, 2024</time></div>															</header>
+													<div class="penci-entry-content entry-content">
+							<p style="text-align: center;"><strong>Laporan Keuangan</strong></p>
+<div class="wp-block-image"><img fetchpriority="high" decoding="async" class="wpa-warning wpa-image-missing-alt alignnone  wp-image-4959" src="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu-300x200.jpg" alt="" width="723" height="482" data-warning="Missing alt text" srcset="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu-300x200.jpg 300w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu-768x512.jpg 768w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu-480x320.jpg 480w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu-280x186.jpg 280w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu-600x400.jpg 600w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu-585x390.jpg 585w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Lap-Keu.jpg 861w" sizes="(max-width: 723px) 100vw, 723px" /></div>
+<div></div>
+<div style="text-align: center;"><strong>Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2020</strong></div>
+<div>
+<div class="wp-block-image"><img decoding="async" class="wpa-warning wpa-image-missing-alt alignnone  wp-image-4960" src="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020-300x195.jpg" alt="" width="720" height="468" data-warning="Missing alt text" srcset="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020-300x195.jpg 300w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020-1024x667.jpg 1024w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020-768x500.jpg 768w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020-1536x1001.jpg 1536w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020-1920x1251.jpg 1920w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020-960x625.jpg 960w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020-614x400.jpg 614w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020-585x381.jpg 585w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2020.jpg 2000w" sizes="(max-width: 720px) 100vw, 720px" /></div>
+<div style="text-align: center;"><strong><strong>Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2021</strong></strong></p>
+<div class="wp-block-image"><img decoding="async" class="wpa-warning wpa-image-missing-alt alignnone  wp-image-4961" src="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021-300x195.jpg" alt="" width="723" height="470" data-warning="Missing alt text" srcset="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021-300x195.jpg 300w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021-1024x667.jpg 1024w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021-768x500.jpg 768w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021-1536x1001.jpg 1536w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021-1920x1251.jpg 1920w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021-960x625.jpg 960w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021-614x400.jpg 614w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021-585x381.jpg 585w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2021.jpg 2000w" sizes="(max-width: 723px) 100vw, 723px" /></div>
+</div>
+<div style="text-align: center;"><strong>Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2022</strong></div>
+<div>
+<div class="wp-block-image"><img loading="lazy" decoding="async" class="wpa-warning wpa-image-missing-alt alignnone  wp-image-4962" src="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022-300x191.jpg" alt="" width="718" height="457" data-warning="Missing alt text" srcset="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022-300x191.jpg 300w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022-1024x652.jpg 1024w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022-768x489.jpg 768w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022-1536x978.jpg 1536w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022-1920x1222.jpg 1920w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022-960x611.jpg 960w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022-628x400.jpg 628w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022-585x372.jpg 585w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2022.jpg 2000w" sizes="(max-width: 718px) 100vw, 718px" /></div>
+</div>
+<div style="text-align: center;"><strong>Laporan Jumlah Pegawai Sesuai Jenis Pendidikan Tahun 2023</strong></div>
+<div>
+<div class="wp-block-image"><img loading="lazy" decoding="async" class="wpa-warning wpa-image-missing-alt alignnone  wp-image-4963" src="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023-300x191.jpg" alt="" width="719" height="458" data-warning="Missing alt text" srcset="https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023-300x191.jpg 300w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023-1024x652.jpg 1024w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023-768x489.jpg 768w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023-1536x978.jpg 1536w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023-1920x1222.jpg 1920w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023-960x611.jpg 960w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023-628x400.jpg 628w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023-585x372.jpg 585w, https://kkpbanjarmasin.or.id/wp-content/uploads/2024/11/Diagram-Per-Jenis-Pendidikan-2023.jpg 2000w" sizes="(max-width: 719px) 100vw, 719px" /></div>
+</div>
+</div>
 						</div>
-						<div class="pagi-text">
-							<h5 class="prev-title"><a href="https://kkpbanjarmasin.or.id/telah-tersedia-vaksin-influenza/">TELAH TERSEDIA VAKSIN INFLUENZA</a></h5>
-						</div>
-					</div>
+						<footer class="penci-entry-footer"><span class="penci-social-buttons penci-social-share-footer"><a href="#" class="penci-post-like penci_post-meta_item  single-like-button penci-social-item like" data-post_id="4783" title="Like" data-like="Like" data-unlike="Unlike"><i class="fa fa-thumbs-o-up"></i><span class="penci-share-number">0</span></a><a class="penci-social-item facebook" target="_blank" rel="noopener" title="" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkkpbanjarmasin.or.id%2Fstatistik%2F"><i class="fa fa-facebook"></i></a><a class="penci-social-item email" target="_blank" rel="noopener" href="mailto:?subject=Statistik&#038;BODY=https://kkpbanjarmasin.or.id/statistik/"><i class="fa fa-envelope"></i></a></span></footer>					</article>
+								</div>
+			</div>
+		</div>
 				
-			</div>
-		
-					<div class="next-post ">
-									<div class="next-post-inner">
-						<div class="prev-post-title next-post-title">
-							<span>next post<i class="fa fa-angle-right"></i></span>
-						</div>
-						<div class="pagi-text">
-							<h5 class="next-title"><a href="https://kkpbanjarmasin.or.id/tata-cara-permohonan-informasi-publik-di-bkk-banjarmasin/">Tata Cara Permohonan Informasi Publik di BKK Banjarmasin</a></h5>
-						</div>
-					</div>
-							</div>
-			</div>
-				</div>
-
-									</div>
-			</div>
-						
 <aside class="widget-area widget-area-1 penci-sticky-sidebar penci-sidebar-widgets">
 	<div class="theiaStickySidebar">
 	<div id="search-2" class="widget  penci-block-vc penci-widget-sidebar style-title-1 style-title-left widget_search"><form method="get" class="search-form" action="https://kkpbanjarmasin.or.id/">
@@ -616,11 +600,11 @@ header#masthead {
 
 			</div><div id="media_image-3" class="widget  penci-block-vc penci-widget-sidebar style-title-1 style-title-left widget_media_image"><img width="212" height="300" src="https://kkpbanjarmasin.or.id/wp-content/uploads/2023/07/POSTER-ANTI-KORUPSI-12-1-566x800-1-212x300.jpg" class="image wp-image-2993  attachment-medium size-medium" alt="Anti Korupsi" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://kkpbanjarmasin.or.id/wp-content/uploads/2023/07/POSTER-ANTI-KORUPSI-12-1-566x800-1-212x300.jpg 212w, https://kkpbanjarmasin.or.id/wp-content/uploads/2023/07/POSTER-ANTI-KORUPSI-12-1-566x800-1-283x400.jpg 283w, https://kkpbanjarmasin.or.id/wp-content/uploads/2023/07/POSTER-ANTI-KORUPSI-12-1-566x800-1.jpg 566w" sizes="(max-width: 212px) 100vw, 212px" /></div>	</div>
 </aside><!-- #secondary -->
-		</div>
-
 	</div>
+</div>
 		</main><!-- #main -->
 	</div><!-- #primary -->
+
 	</div><!-- #content -->
 	<footer id="colophon" class="site-footer" itemscope itemtype="http://schema.org/WPFooter">
 		<meta itemprop="name" content="Webpage footer for Balai Kekarantinaan Kesehatan Kelas I Banjarmasin"/>
@@ -705,12 +689,12 @@ Email 	: 	  	kkp.banjarmasin@yahoo.co.id</div></div>				</div>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3971"><a href="https://kkpbanjarmasin.or.id/infografis-kekarantinaan-kesehatan/">Infografis Kekarantinaan Kesehatan</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3976"><a href="#">Informasi Publik</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-3976"><a href="#">Informasi Publik</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3972"><a href="https://kkpbanjarmasin.or.id/category/berita/">Berita</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3972"><a href="https://kkpbanjarmasin.or.id/category/berita/">Berita</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4703"><a href="https://kkpbanjarmasin.or.id/buletin-sigar-edisi-1/">Buletin</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3973"><a href="https://kkpbanjarmasin.or.id/category/pengumuman/">Pengumuman</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3975"><a href="#">PPID</a>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-3975"><a href="#">PPID</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3978"><a href="https://kkpbanjarmasin.or.id/jam-layanan-ppid/">Layanan PPID</a>
 		<ul class="sub-menu">
@@ -724,11 +708,11 @@ Email 	: 	  	kkp.banjarmasin@yahoo.co.id</div></div>				</div>
 			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5026"><a href="https://kkpbanjarmasin.or.id/daftar-register-permohonan/">Daftar Register Permohonan</a></li>
 		</ul>
 </li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4762"><a href="https://kkpbanjarmasin.or.id/laporan-tersedia-setiap-saat/">Layanan Tersedia Setiap Saat</a>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-4762"><a href="https://kkpbanjarmasin.or.id/laporan-tersedia-setiap-saat/">Layanan Tersedia Setiap Saat</a>
 		<ul class="sub-menu">
 			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4807"><a href="https://kkpbanjarmasin.or.id/barang-jasa/">Barang Jasa</a></li>
 			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4808"><a href="https://kkpbanjarmasin.or.id/rencana-strategis/">Rencana Strategis</a></li>
-			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4809"><a href="https://kkpbanjarmasin.or.id/statistik/">Statistik</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4783 current_page_item menu-item-4809"><a href="https://kkpbanjarmasin.or.id/statistik/" aria-current="page">Statistik</a></li>
 			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4810"><a href="https://kkpbanjarmasin.or.id/informasi-bmn/">Informasi BMN</a></li>
 		</ul>
 </li>
@@ -861,25 +845,24 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/plugins/penci-pennews-recipe/js/jquery.rateyo.min.js?ver=2.3" id="jquery-recipe-rateyo-js"></script>
 <script type="text/javascript" id="penci_rateyo-js-extra">
 /* <![CDATA[ */
-var PENCI = {"ajaxUrl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","nonce":"a79e26394c","normalFill":"#b9b9b9","ratedFill":"#FFCA00"};
+var PENCI = {"ajaxUrl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","nonce":"fc42a67791","normalFill":"#b9b9b9","ratedFill":"#FFCA00"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/plugins/penci-pennews-recipe/js/rating_recipe.js?ver=2.3.2" id="penci_rateyo-js"></script>
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/plugins/penci-pennews-review/js/jquery.easypiechart.min.js?ver=1.0" id="jquery-penci-piechart-js"></script>
 <script type="text/javascript" id="penci-rateyo-review-js-extra">
 /* <![CDATA[ */
-var PENCI = {"postID":"4211","ajaxUrl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","nonce":"a79e26394c","normalFill":"#b9b9b9","ratedFill":"#FFCA00"};
+var PENCI = {"postID":"4783","ajaxUrl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","nonce":"fc42a67791","normalFill":"#b9b9b9","ratedFill":"#FFCA00"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/plugins/penci-pennews-review/js/rating_review.js?ver=3.0" id="penci-rateyo-review-js"></script>
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/themes/pennews/js/script.lib.min.js?ver=6.6.1" id="penci-script-lib-js"></script>
 <script type="text/javascript" id="penci-js-extra">
 /* <![CDATA[ */
-var PENCILOCALIZE = {"ajaxUrl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","nonce":"a79e26394c","errorMsg":"Something wrong happened. Please try again.","login":"Email Address","password":"Password","errorPass":"<p class=\"message message-error\">Password does not match the confirm password<\/p>","prevNumber":"1","minlengthSearch":"0","linkTitle":"View More","linkTextAll":"Menu","linkText":"More"};
+var PENCILOCALIZE = {"ajaxUrl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","nonce":"fc42a67791","errorMsg":"Something wrong happened. Please try again.","login":"Email Address","password":"Password","errorPass":"<p class=\"message message-error\">Password does not match the confirm password<\/p>","prevNumber":"1","minlengthSearch":"0","linkTitle":"View More","linkTextAll":"Menu","linkText":"More"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/themes/pennews/js/script.min.js?ver=6.6.1" id="penci-js"></script>
-<script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-includes/js/comment-reply.min.js?ver=6.6.4" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
 <script type="text/javascript" id="wpa.longdesc-js-extra">
 /* <![CDATA[ */
 var wpald = {"url":"https:\/\/kkpbanjarmasin.or.id\/wp-json\/wp\/v2\/media","type":"jquery","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
@@ -888,7 +871,7 @@ var wpald = {"url":"https:\/\/kkpbanjarmasin.or.id\/wp-json\/wp\/v2\/media","typ
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=2.1.12" id="wpa.longdesc-js"></script>
 <script type="text/javascript" id="wp-accessibility-js-extra">
 /* <![CDATA[ */
-var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-US","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","security":"39ad3778c0","action":"wpa_stats_action","url":"https:\/\/kkpbanjarmasin.or.id\/telah-tersedia-layanan-vaksinasi-internasional\/","post_id":"4211"};
+var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-US","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/kkpbanjarmasin.or.id\/wp-admin\/admin-ajax.php","security":"b8f8658dd3","action":"wpa_stats_action","url":"https:\/\/kkpbanjarmasin.or.id\/statistik\/","post_id":"4783"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://kkpbanjarmasin.or.id/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=2.1.12" id="wp-accessibility-js"></script>
